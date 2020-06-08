@@ -1,1 +1,1 @@
-# speech-recohnition-number-gussing-number
+# Speech recognition-number gussing game
